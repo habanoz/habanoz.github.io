@@ -2,4 +2,4 @@
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-Forked from [jglovier resume template](https://github.com/jglovier/resume-template/projects/1)
+Forked from [jglovier resume template](https://github.com/jglovier/resume-template)
