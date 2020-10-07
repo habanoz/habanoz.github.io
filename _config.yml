@@ -23,7 +23,8 @@ resume_contact_address:         "Umraniye, Istanbul, Turkey"
 resume_header_contact_info:     "Umraniye, Istanbul, Turkey • XXX-XXXX • huseyinabanozis@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Passionate software engineer with 10 years of hands on experience. Java (OCP) and Python coder. </p>"
+resume_header_intro: "<p>Passionate software engineer with 10 years of hands on experience. Java (OCP) and Python coder. </p><p><b>Keywords:</b> Parallel and Distributed Computing, Clean Coding, Business Process Management, Machine
+Learning Research, Deep Learning, Open Source Software</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
