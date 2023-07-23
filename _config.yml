@@ -23,8 +23,27 @@ resume_contact_address:         "Umraniye, Istanbul, Turkey"
 resume_header_contact_info:     "Umraniye, Istanbul, Turkey • XXX-XXXX • huseyinabanozis@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Passionate software engineer with 10 years of hands on experience. Java (OCP) and Python coder. </p><p><b>Keywords:</b> Parallel and Distributed Computing, Clean Coding, Business Process Management, Machine
-Learning Research, Deep Learning, Open Source Software</p>"
+resume_header_intro: "
+<p>I am a passionate software engineer with 10+ years of experience. I have a lot of expertise in software development mainly in Java and Python ecosystems. I have participated in development of services used by millions of users daily. </p>
+
+<p>My professional experience includes developing scalable and available systems, applying parallel and distributed computing techniques, and working with both monolithic and microservice architectures.</p>
+
+<p>I focus on producing code that is easy to understand, verify, and modify. I adhere to clean coding principles that enhance the quality and readability. </p>
+
+<p>I have a particular interest in Artificial Intelligence (AI).  I am involved in large language models and their applications. I believe AI is about to disrupt software engineering, and I am happy/ready to embrace it. </p>
+
+<p>I have been developing software for over a decade, and I still enjoy every aspect of it. I am always eager to learn new skills and technologies, as well as to share my knowledge and experience with others. Writing is another passion of mine, and I like to document my projects and ideas in a clear and concise way. </p>
+
+<p><b>Keywords:</b> Java, Python, Parallel, Asynchronous and Distributed Computing, Clean Coding, Open Source Software, Spring Boot. </p>
+
+For the online version:
+https://habanoz.github.io/
+
+Please check my blog and GitHub page to see more about my past works. 
+<b>GitHub:</b> https://github.com/habanoz
+<b>Blog    :</b> https://habanoz.github.io/tech-posts/
+
+"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -52,6 +71,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/huseyinabanoz/"
   # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "https://huseyinabanozeng.blogspot.com/"
+  resume_website_url:           "https://huseyinabanozeng.blogspot.com/"
   resume_website_url:           "https://huseyinabanozeng.blogspot.com/"
   resume_medium_url:            "https://medium.com/@huseyinabanox"
 resume_print_social_links:      true
