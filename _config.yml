@@ -39,10 +39,12 @@ resume_header_intro: "
 For the online version:
 https://habanoz.github.io/
 
-Please check my blog and GitHub page to see more about my past works. 
-<b>GitHub:</b> https://github.com/habanoz
-<b>Blog    :</b> https://habanoz.github.io/tech-posts/
-
+<p>Please check my blog and GitHub page to see more about my past works. 
+<ul>
+<li><b>GitHub:</b> https://github.com/habanoz </li>
+<li><b>Blog    :</b> https://habanoz.github.io/tech-posts/ </li>
+</ul>
+</p>
 "
 
 # use "yes" to display the email contact button,
