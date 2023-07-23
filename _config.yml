@@ -28,7 +28,7 @@ resume_header_intro: "
 
 <p>My professional experience includes developing scalable and available systems, applying parallel and distributed computing techniques, and working with both monolithic and microservice architectures.</p>
 
-<p>I focus on producing code that is easy to understand, verify, and modify. I adhere to clean coding principles that enhance the quality and readability. </p>
+<p>I focus on producing code that is easy to understand, verify, and modify. I adhere to clean coding principles that enhance quality and readability. </p>
 
 <p>I have a particular interest in Artificial Intelligence (AI).  I am involved in large language models and their applications. I believe AI is about to disrupt software engineering, and I am happy/ready to embrace it. </p>
 
@@ -41,8 +41,8 @@ https://habanoz.github.io/
 
 <p>Please check my blog and GitHub page to see more about my past works. 
 <ul>
-<li><b>GitHub:</b> https://github.com/habanoz </li>
-<li><b>Blog    :</b> https://habanoz.github.io/tech-posts/ </li>
+<li><b>GitHub:</b> <a href="https://github.com/habanoz" target="_blank" >https://github.com/habanoz</a></li>
+<li><b>Blog    :</b> <a href="https://habanoz.github.io/tech-posts/" target="_blank" >https://habanoz.github.io/tech-posts</a> </li>
 </ul>
 </p>
 "
