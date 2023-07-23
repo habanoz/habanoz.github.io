@@ -36,9 +36,6 @@ resume_header_intro: "
 
 <p><b>Keywords:</b> Java, Python, Parallel, Asynchronous and Distributed Computing, Clean Coding, Open Source Software, Spring Boot. </p>
 
-For the online version:
-https://habanoz.github.io/
-
 <p>Please check my blog and GitHub page to see more about my past works. 
 <ul>
 <li><b>GitHub:</b> https://github.com/habanoz </li>
@@ -73,8 +70,6 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/huseyinabanoz/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://huseyinabanozeng.blogspot.com/"
-  resume_website_url:           "https://huseyinabanozeng.blogspot.com/"
   resume_website_url:           "https://huseyinabanozeng.blogspot.com/"
   resume_medium_url:            "https://medium.com/@huseyinabanox"
 resume_print_social_links:      true
