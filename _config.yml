@@ -24,7 +24,7 @@ resume_header_contact_info:     "Umraniye, Istanbul, Turkey • XXX-XXXX • hus
 display_header_contact_info:    "false"
 
 resume_header_intro: "
-<p>I am a passionate software engineer with 10+ years of experience. I have a lot of expertise in software development mainly in Java and Python ecosystems. I have participated in development of services used by millions of users daily. </p>
+<p>I am a passionate software engineer with 10+ years of experience. I have a lot of expertise in software development mainly in Java and Python ecosystems. I have participated in the development of services used by millions of users daily. </p>
 
 <p>My professional experience includes developing scalable and available systems, applying parallel and distributed computing techniques, and working with both monolithic and microservice architectures.</p>
 
@@ -41,8 +41,8 @@ https://habanoz.github.io/
 
 <p>Please check my blog and GitHub page to see more about my past works. 
 <ul>
-<li><b>GitHub:</b> <a href="https://github.com/habanoz" target="_blank">github.com/habanoz</a> </li>
-<li><b>Blog  :</b> <a href="https://habanoz.github.io/tech-posts" target="_blank">Tech-posts</a> </li>
+<li><b>GitHub:</b> https://github.com/habanoz </li>
+<li><b>Blog  :</b> https://habanoz.github.io/tech-posts </li>
 </ul>
 </p>
 "
