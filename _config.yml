@@ -63,12 +63,12 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/habanoz"
-  # resume_twitter_url:           "https://habanoz.github.io/tech-posts/"
+  resume_twitter_url:           "https://twitter.com/HuseyinABAIVOZ"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/huseyinabanoz/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://habanoz.github.io/tech-posts/"
+  resume_website_url:           "https://habanoz.github.io/tech-feed/"
   resume_medium_url:            "https://medium.com/@huseyinabanox"
 resume_print_social_links:      true
 
