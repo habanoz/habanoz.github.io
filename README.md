@@ -1,5 +1,3 @@
-# Resume template
+# Resume: Hüseyin ABANOZ
 
-*A simple Jekyll + GitHub Pages powered resume template.*
-
-Forked from [jglovier resume template](https://github.com/jglovier/resume-template)
+Resume for Huseyin ABANOZ, A software engineer with 10+ years of experience in software development.
