@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Huseyin ABANOZ"
-resume_title:                   "Passionate Software Engineer"
+resume_title:                   "Experienced Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "huseyinabanozis@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "XXX-XXXX"
-resume_contact_address:         "Umraniye, Istanbul, Turkey"
+resume_contact_address:         "Sakarya, Turkey"
 
-resume_header_contact_info:     "Umraniye, Istanbul, Turkey • XXX-XXXX • huseyinabanozis@gmail.com"
+resume_header_contact_info:     "Sakarya, Turkey • XXX-XXXX • huseyinabanozis@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "
@@ -28,7 +28,7 @@ resume_header_intro: "
 
 <p>He has worked in the telecommunications industry for a decade as a software engineer. He has developed numerous solutions and services that serve millions of users daily.</p>
 
-<p>After gaining a master's degree in Machine Learning, in 2022 he focused on Deep Learning, Reinforcement Learning, and Large Language Models.<p>
+<p>After gaining a master's degree in Machine Learning, in 2022 he has shifted his focus to Deep Learning, Reinforcement Learning, and Large Language Models.<p>
 
 <p>Strong foundation in Software Design, Object Oriented Programming, Functional Programming, Data Structures, and Algorithms. Focused on producing efficient code that is easy to understand, verify, and modify. Adherence to clean coding principles that enhance quality and readability.</p>
 
