@@ -1,5 +1,17 @@
 # Jobs
-# first
+
+- company: habanoz.io
+  position: Founder
+  duration: November 2023 - July 2024
+  summary: |-
+    Activities:
+    - Language Model Fine-tuning. Fine-tuned several variants of tinny-llama model. Model weights are accessible in
+      HuggingFace.
+    - Development of Steward. Steward is a chatbot application that is programmed to serve as a professional AI
+      assistant. It uses user CVs to generate answers.
+    - Development of Mike. Mike is a local AI assistant application designed to improve productivity. Mike uses user
+      files and Web Search to improve its answers.
+  
 - company: ALCATEL LUCENT TELETAS
   position: Software Enginner
   duration: July, 2010 &mdash; May, 2012
