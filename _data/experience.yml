@@ -1,116 +1,25 @@
 # Jobs
-### Founder of habanoz.io
+# first
+- company: ALCATEL LUCENT TELETAS
+  position: Software Enginner
+  duration: July, 2010 &mdash; May, 2012
+  summary: Early stage of my professional life. Developed java software in OSS Domain. Used Java, Spring, Mysql, Mssql, Javascript. This experience is followed by compulsory military service of 1 year.
 
-- **Period**: November 2023 - Present
-- **Company**: habanoz.io
-- **Role**: habanoz.io provides services to help business embrace AI technologies to improve their services.
-- **Activities**:
-    - Language Model Fine-tuning. Fine-tuned several variants of tinny-llama model. Model weights are accessible in
-      HuggingFace.
-    - Development of Steward. Steward is a chatbot application that is programmed to serve as a professional AI
-      assistant. It uses user CVs to generate answers.
-    - Development of Mike. Mike is a local AI assistant application designed to improve productivity. Mike uses user
-      files and Web Search to improve its answers.
+# second
+- company: ALCATEL LUCENT TELETAS
+  position: Senior Software Engineer
+  duration:  May, 2013 &mdash; May, 2016
+  summary: International assignment in Baku, Azerbaijan. Local assignments in Istanbul. Developed java software in OSS Domain. Used Java, Spring, Primefaces, Hibernate, Oracle, DB2, MySQL tech stack.
 
-### Freelancer at Upwork
 
-- **Period**: May 2023 - May 2024
-- **Role**: Design and development of software applications for financial services. Design and development of chatbot
-  applications.
-- **Activities**:
-    - **Copy Trade Bot**: Development of Java (17) based copy trade application. The main purpose of the application was
-      to
-      monitor and replay buy/sell activities of certain accounts. The application was integrated to ByBit Asset
-      Exchange. The application was using ByBit API for the exchange integration. ByBit API also allows web hooks to
-      publish realtime updates. Persistence layer MySQL and hibernate.
-    - **Knowledge Base Chat Bot Application**: Design and development of a chatbot application. The chatbot utilized
-      RAG (Retrieval Augmented Generation) pattern to generate answers based on a knowledge-base. Knowledge base was
-      built by scrapping an official support site. Java (17) language was used in the development. OpenAI
-      ChatGPT-3.5-Turbo
-      and OpenAI embedding models were used. Pinecone vector store was used to store document embeddings. Persistence
-      layer CockroachDB and hibernate.
-    - **Bank Account KYC Application**: The application was developed using Java (17), Spring Boot. The purpose
-      of the application was to run steps required before creating a bank account: Collect user information and build a
-      contract, Sign the contract, Apply KYC Steps, Inform the clearing system about the success of the KYC.
-      Docusign (web-forms) was used for collecting user information and signing. Persona was used to conduct KYC steps.
-      Velox was used as the clearing systems. Docusign and Persona provides web hooks for realtime updates. Persistence
-      layer CockroachDB and hibernate.
-    - **Game Server Backend**: The application was developed using Java (17), Spring Boot. The application was
-      provided as a backend to a suit of online game applications. Each online game used the backend to store game
-      related data, creating and authenticating users. The backend exposed set of REST endpoints to be consumed by the
-      online games. The backend server designed to achieve low latency. A monitoring suite based Prometheus (A framework
-      to create and publish application metrics), Influxdb (A database to keep time series data) and Grafana (A
-      dashboard application to display application metrics) was shipped with the application. K6 (a load testing
-      framework) was used to do load testing. Persistence layer CockroachDB and hibernate.
+# third
+- company: NOKIA
+  position: Senior Software Engineer
+  duration:   May, 2016  &mdash; May, 2018
+  summary: International assignment in UK. Local assignments in Istanbul. Developed java software in OSS Domain. Used Java, Spring, Hibernate, DB2, MySQL tech stack.
 
-### Co-Founder at TezosLand
-
-- **Period**: Aug 2018 - Mar 2021
-- **Role**: Setup, configuration and maintenance of the TezosLand.
-- **Company**: TezosLand. TezosLand or Tezos-Land was a low fee, high-reliability baking service. Baking was the
-  operation of validating transactions in the tezos blockchain which has a liquid delegated proof of stake (DPoS)
-  consensus mechanism. In DPos tezos stakers delegate their stake to a Baker. The baker shares, aka redistributes,
-  staking rewards with the stakers. TezosLand was a such baker which claimed having low fee and high reliability and
-  respecting customer anonymity.
-- **Activities**:
-    - Development of a reward distribution software, which was later opensourced under the name of Tezos Reward
-      Distributor (TRD).
-    - Configuration of a local tezos blockchain node.
-    - Following payment activities.
-    - Following protocol upgrades and applying them to TezosLand servers.
-
-### Software Engineer at i2i Systems
-
-- **Company**: i2i Systems (At Istanbul)
-- **Duration**: From May 2018 to Jun 2022 (4 years 2 months)
-- **Responsibilities**: Involved in the design and development of Charging System and 5G Core components. Participation
-  in the development of large scale, performance sensitive, and highly available systems was a key role.
-- **Activities**:
-    - **RECF Microservice**: Designed and developed a microservice for recurring billing and charging operations was
-      designed and developed. This microservice, responsible for refreshing recurring packages of post-paid and pre-paid
-      customers, handles the processing of millions of customer accounts daily. The microservice application was based
-      on Java (17) and Spring Boot. The microservice application utilized the Akka framework for asynchronous
-      processing. Oracle 12G and JDBC was utilized in the persistence layer. A clustering solution based on Akka
-      Clustering was employed to enable multiple instances to run in parallel for load sharing and high availability.
-      The microservice was designed to continue serving even in the most extreme scenarios and was geographically
-      distributed to ensure service continuity in the event of a catastrophe at a data center. Kafka was used for both
-      publishing and subscribing. The microservice was designed as a part of a larger online charging system which was
-      developed by a large team of developers, testers and analysts which co-operated using scrum methodology.
-    - **NSSF Microservice**: Designed and developed a microservice for the 5G network slice selection function (NSSF).
-      Network slicing feature in 5G terminology allows the creation of multiple logical networks on top of a common
-      shared physical network, essentially segmenting parts of the network for different users and/or use cases. The
-      NSSF microservice facilitates the selection of the most appropriate slice for the user equipment (UE). The
-      microservice application was based on Java (17) and Spring Boot. The microservice utilized the Akka framework for
-      asynchronous processing. Hazelcast in-memory data grid solution was used as a distributed near cache. The
-      microservice endpoints were designed in accordance with OpenAPI Specification Files and 5G Core Network
-      specification files published by the 3GPP consortium.
-
-### Software Engineer at Nokia
-
-- **Company**: Nokia (At Istanbul)
-- **Period**: Jan 2016 - May 2018 (2 years 5 months)
-- **Role**: Design and Development of Operational Support System (OSS) applications for Telecommunications industry.
-- **Activities**: Development of various Java and Spring based applications.
-
-### SCCD Consultant
-
-- **Period**: Jul 2017 - Dec 2017 (6 months)
-- **Company**: Network Rail (At London)
-- **Role**: SCCD Consultancy services for NRT, an assignment by Nokia.
-
-### Software Engineer at Alcatel-Lucent
-
-- **Company**: Alcatel-Lucent (At Istanbul)
-- **Period**: Jul 2010 - Jan 2016 (5 years 7 months)
-- **Role**: Development and Integration of Operational Support System (OSS) applications for Telecommunications
-  industry.
-- **Activities**:
-    - **IVR Application**: An application was designed and developed using Java and Spring that employs the SIP protocol
-      to initiate bulk calls to subscribers for announcements and marketing campaigns. The application also collected
-      user responses in the form of phone digit pressing and reported them. JDBC and MySQL were utilized in the
-      persistence layer.
-    - **Web-Applications**: Development of various Java and JSF based web applications.
-    - **Integration-Applications**: Development of various Java and Spring Boot based integration applications.
-      Integrations involved file exports, database synchronizations, exposing and consuming web services (including SOAP
-      and REST endpoints). Some RDBMS used are MySQL, PostgreSQL, Oracle, DB2. Hibernate is used mainly in persistence
-      layer.
+# fourth
+- company: i2i Systems
+  position: Senior Software Engineer
+  duration:   May, 2018  &mdash; Present
+  summary: Local assignments in Istanbul. Telecom charging and billing systems. Tech stack contained Java, Akka, Hazelcast, Spring, Oracle, PostgreSQL, Voltdb.
