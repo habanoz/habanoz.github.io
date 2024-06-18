@@ -1,37 +1,20 @@
 # Jobs
-
 - company: habanoz.io
   position: Founder
   duration: November 2023 - July 2024
-  summary: |-
-    Activities:
-    - Language Model Fine-tuning. Fine-tuned several variants of tinny-llama model. Model weights are accessible in
-      HuggingFace.
-    - Development of Steward. Steward is a chatbot application that is programmed to serve as a professional AI
-      assistant. It uses user CVs to generate answers.
-    - Development of Mike. Mike is a local AI assistant application designed to improve productivity. Mike uses user
-      files and Web Search to improve its answers.
+  summary: Fine-tuning language models, development of chatbots.
   
-- company: ALCATEL LUCENT TELETAS
-  position: Software Enginner
-  duration: July, 2010 &mdash; May, 2012
-  summary: Early stage of my professional life. Developed java software in OSS Domain. Used Java, Spring, Mysql, Mssql, Javascript. This experience is followed by compulsory military service of 1 year.
-
-# second
-- company: ALCATEL LUCENT TELETAS
-  position: Senior Software Engineer
-  duration:  May, 2013 &mdash; May, 2016
-  summary: International assignment in Baku, Azerbaijan. Local assignments in Istanbul. Developed java software in OSS Domain. Used Java, Spring, Primefaces, Hibernate, Oracle, DB2, MySQL tech stack.
-
-
-# third
-- company: NOKIA
-  position: Senior Software Engineer
-  duration:   May, 2016  &mdash; May, 2018
-  summary: International assignment in UK. Local assignments in Istanbul. Developed java software in OSS Domain. Used Java, Spring, Hibernate, DB2, MySQL tech stack.
-
-# fourth
 - company: i2i Systems
+  position: Senior Software Enginner
+  duration: May 2018 - Jun 2022
+  summary: Design and development of Charging System and 5G Core components. Development of large scale, performance sensitive, and highly available systems was a key role.
+  
+- company: Nokia
   position: Senior Software Engineer
-  duration:   May, 2018  &mdash; Present
-  summary: Local assignments in Istanbul. Telecom charging and billing systems. Tech stack contained Java, Akka, Hazelcast, Spring, Oracle, PostgreSQL, Voltdb.
+  duration:  Jan 2016 - May 2018
+  summary: Development of various Java and Spring based applications.
+
+- company: Alcatel-Lucent
+  position: Senior Software Engineer
+  duration: Jul 2010 - Jan 2016
+  summary: Development and Integration of Operational Support System (OSS) applications for Telecommunications industry.
