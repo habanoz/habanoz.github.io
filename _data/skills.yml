@@ -1,8 +1,5 @@
-# Skills
-# JAVA
 - skill: JAVA
-  description: Parallel and Distributed Computing, Database, JDBC, Hibernate applications, Spring Framework, Akka Framework, Business Process Management, Web Applications
-
-# Communications strategy
+  description: Parallel and Distributed Computing, Relational&NoSQL Database Applications, JDBC&JPA&Hibernate applications, Spring Boot, Akka Framework, Business Process Management, Web Applications
+  
 - skill: Python
-  description: Machine Learning Applications, Training Convolutional Neural Networks, Blockchain Based Applications
+  description: Training Convolutional Neural Networks, Training&Fine-Tuning Language Models, Training RL Models, Blockchain Based Applications
